@@ -1,0 +1,16 @@
+# Virtual Environment
+x-ray-env/
+venv/
+env/
+
+# Python Cache & Artifacts
+__pycache__/
+*.pyc
+
+# Heavy ML Models & Asset Weights (Keep repo lightweight)
+*.pt
+*.task
+
+# IDE settings
+.vscode/
+.idea/
